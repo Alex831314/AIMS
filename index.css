@@ -1,10 +1,23 @@
 .color {
   color: red;
+  text-align: center;
+  font-size: 40px;
+
 }
 
 .things {
   background-color: aqua;
-  border-radius: 5px;
-  height: 30px;
-  
+  border-radius: 10px;
+  height: 80px;
+  width: 290px;
+  font-size: 20px;
+
+}
+
+.size {
+  height: 50px;
+  width: 250px;
+  background-color: pink;
+  font-size: 15px;
+
 }
